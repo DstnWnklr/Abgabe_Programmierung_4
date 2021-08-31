@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">BuildBurger</string>
+    <string name="Adresse">Am Barfußgäßchen 5</string>
+    <string name="ButtonWeiter">Weiter</string>
+
+    <string name="ButtonTextMyList">Hinzufügen</string>
+
+    <string name="bestandteileText">dein Burger</string>
+    <string name="ButtonBestandteile">Bestellung</string>
+    <string name="bestandteileGesamt">Gesamt</string>
+
+    <string name="buildText">Konfiguriere deinen Wunschburger</string>
+
+
+
+</resources>
